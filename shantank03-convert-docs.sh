@@ -1,25 +1,26 @@
 #!/bin/bash
 
 # Declare input argument as a variable
-DOCUMENT=shantank03-convert-documents/2017-07-16-conversion-document.md
+INPUTFILE=$1
+OUTPUTNAME=$INPUTFILE
 # Convert markdown to HTML
-pandoc -o conversion-doc.html $DOCUMENT
+pandoc -o $OUTPUTNAME.html $INPUTFILE
 echo "The markdown document is being converted to HTML format."
 echo ""
 # Convert markdown to DOCX
-pandoc -o conversion-doc.docx $DOCUMENT
+pandoc -o $OUTPUTNAME.docx $INPUTFILE
 echo "The markdown document is being converted to a MS Word document."
 echo ""
 # Convert markdown to ODT
-pandoc -o conversion-doc.odt $DOCUMENT
+pandoc -o $OUTPUTNAME.odt $INPUTFILE
 echo"The markdown document is being converted to ODT format."
 echo ""
 # Convert markdown to PDF
-pandoc -o conversion-doc.pdf $DOCUMENT
+pandoc -o $OUTPUTNAME.pdf $INPUTFILE
 echo "The markdown document is being converted to a PDF."
 echo ""
 # Convert markdown to TXT
-pandoc -o conversion-doc.txt $DOCUMENT
+pandoc -o $OUTPUTNAME.txt $INPUTFILE
 echo "The markdown document is being converted to a TXT file."
 echo ""
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
