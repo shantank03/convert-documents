@@ -1,0 +1,205 @@
+GDP vs. Wellbeing: Measuring a Policy
+=====================================
+
+Introduction
+------------
+
+Policymaking may seem like a daunting task; however, measuring the
+effectiveness of a policy often proves more complicated. With many
+varying opinions on how best to evaluate policy, policymakers have
+turned to economists to create a quantitative measure that attempts to
+eliminate subjectivity. The result: utilizing gross domestic product
+(GDP) as the standard method of evaluation. By measuring changes in
+overall GDP to determine a quantifiable policy effect, policymakers are
+placing an emphasis on using output, which can be correlated with
+productivity, to establish a baseline for evaluation. GDP may provide a
+certain level of consistency, but the measure often fails to account for
+certain intrinsic values beyond the numbers of a “simple” measure. Thus,
+what can policymakers use to assess the efficacy of a policy? One
+alternative measure is wellbeing, which can be further broken down into
+several approaches – hedonism, preference selection, or objective
+list/capabilities approach. Of the three presented approaches,
+preference selection provides the strongest case for wellbeing as a
+measure, with the other approaches falling short of creating a solution
+that accounts for both market efficiency and the personal choices of
+those affected by a policy.
+
+Looking Beyond GDP
+------------------
+
+To analyze the role of wellbeing as an effective policy measure, we must
+further understand the shortcomings of GDP as an evaluation tool. GDP
+has proven to be a useful measure, but it is quite difficult to account
+for the true value of GDP. GDP is the combination of the final values of
+goods produced across a broad spectrum of sectors, ranging from basic
+agriculture to financial services, within a country. With economies
+becoming more complex, there are millions of inputs and transactions
+that must be accounted for. Policies can have a far-reaching impact,
+with the potential to place unforeseen negative externalities on a
+society and generate a chain of unintended consequences. This makes it
+quite tough to determine the full extent by which a policy changes
+overall GDP. Another issue with GDP is that it fails to account for
+changes in standard of living over time. In developmental economics, GDP
+often serves a baseline by which to measure country growth as well as
+reductions in poverty and income inequality. A common tool by which to
+measure this growth is the Human Development Index (HDI). With values
+ranging from 0 to 1, the HDI is an aggregate score of various indicators
+by which to rank countries in terms of human development. Studies have
+correlated HDI ranks against GDP-per-capita rankings to reveal a strong
+correlation between the two values; as GDP-per-capita rank increase the
+HDI rank will also increase. However, Francisco Rodriguez presents an
+analysis that supports the theory that developmental policies should
+look beyond the scope of GDP and more at other factors, such as
+improvements in health and education, to determine if indeed a policy
+has achieved any of its intended targets.1 In his findings he revealed
+that while cross-country dispersion in income per capita has increased,
+dispersion in HDI scores has decreased indicating that the health and
+education components of the index are slowly converging across the
+world. While GDP may be viewed as an easy, standard tool by which to
+measure the progression of a country’s development, these other factors
+are more useful indicators in determining improvements to overall
+wellbeing. Thus, it is important to look beyond the scope of GDP and the
+resource-based approach to understand that different factors contribute
+to improvements in wellbeing and provide a more solid foundation by
+which to understand the impact of a policy.
+
+Examining Wellbeing and Preference Satisfaction
+-----------------------------------------------
+
+The wellbeing approach to policy analysis is rooted in the question,
+“How can we truly evaluate improvement in overall wellbeing if people
+behave differently?” While this notion does provide a slight
+complication, it is a person’s ability to choose and satisfy their
+preferences that leads to better wellbeing. In today’s consumer-oriented
+society, one can go to a mall and choose their optimal bundle of goods
+that lead to the greatest satisfaction of their desires. Per the
+economic theory of preferences, once a person’s preferences have been
+satisfied they are at their maximum levels of efficiency and utility.
+This same reasoning holds true with policy. By choosing to vote for and
+take on policies that they so choose, citizens are selecting their
+preferences that coincide with their political views and what they hope
+to see in a society. Case in a point, the Wake Country Transit Plan that
+was put up for referendum in this past election. Voters approved the
+referendum, which will increase taxes to generate revenue to increase
+public transportation for the county. In choosing “Yes” or “No”, voters
+casted their ballot on whether an improved public transit system would
+improve or keep constant/worsen their overall wellbeing. In using this
+approach to evaluate policy, the most effective way to gather data is
+the surveying method. In expanding on the Wake Transit Plan example,
+experimenters must collect data over an extended period of time to
+determine whether or not this referendum has improved overall wellbeing.
+Possible questions could include, “Has the increase in public
+transportation improved your overall work experience?” or “Has relying
+primarily on public transportation changed your lifestyle for better or
+worse?” By coding responses, researchers can generate an analysis that
+can reveal the full extent by which a policy has changed wellbeing.
+Beyond the perspective of behavioral economists, there a few arguments
+to be made refuting the validity of preference selection as a method of
+analysis. One key issue is the concept of oppressed preferences, which
+are shaped by oppressive social conditions. Take for example the German
+people forced to live under the rule of Adolf Hitler. While many Germans
+may have had no ill feeling towards the Jews, the threats and fears
+emanating from the state were enough to drive people to openly support
+the discriminatory policies of the authoritarian regime. By supporting
+these policies their short-run wellbeing was improved, but in the
+long-run it ultimately lead to the capitulation of Germany and the
+destruction of its economy. Building off this example, another issue
+with preference selection is that people make mistakes and do not have
+full information on the outcomes of their decisions. There is no
+avoiding this obvious flaw. In Hausman’s piece, he brings up the case of
+a tourist stepping onto the road and getting hit by a car.2 While the
+tourist may have satisfied his preference in this situation, his overall
+wellbeing is diminished by the fact that a car hit him and possibility
+killed him. Voters are like the tourist; they may choose a policy or a
+politician that best represents how they feel, but their choice may end
+up backfiring and hurting them in the future. They might not have full
+information on their selection, but their ability to choose represents
+the most market efficient solution. By placing the final say in the
+hands of the voters, governments can circumvent the long process of
+debating and selecting a policy thus saving time and money in
+determining an effective policy. While measuring wellbeing or utility
+might be a better option in measuring policy, there are moral objections
+to this method. These include distributional issues and potential
+rights-violations. Say utility/pleasure is measured using basic units;
+one society may have evenly distributed pleasure between members while
+another may have the same amount but this utility is not evenly spread.
+However, an efficient society is not necessarily one that is defined by
+an even distribution of pleasure. By the preference satisfaction
+approach each one of us will have different preferences thus some
+actions may generate greater utility for some. Thus, we cannot expect
+every action to generate equal amounts of pleasure for all. In
+addressing rights-violations, the justification of a right depends on
+its tendency to promote happiness and prevent suffering. This is
+redundant as this is the sole purpose of utility. By allowing someone to
+pick their preferences they are satisfying their freedom of choice, a
+basic human right. In the preference selection method, those that are
+given the choice to select a policy will satisfy their rights,
+preferences, and maximize their overall utility.
+
+The Hedonism Approach
+---------------------
+
+Beyond the preference satisfaction approach, wellbeing can also be
+measured using the hedonism approach. Hedonism is defined as the pursuit
+of pleasure or happiness. Economists often attempt to determine how much
+welfare is added or lost to society due to a policy. By assuming that
+welfare equates to happiness, the hedonism approach contends that
+policies should be evaluated by their effects on happiness. This key
+premise assumed by the hedonistic approach is flawed in that not all
+policies or actions are geared toward creating happy or pleasurable
+experiences. Another objection to this theory is that welfare, and by
+extent happiness, is impossible to measure. According to the Hausman
+piece, if people can individually measure their own quality of
+experiences then the study of welfare becomes obsolete. Once we have the
+ability to determine if a choice improves or deteriorates our welfare,
+we improve our chances of effectively picking policies that improve our
+overall wellbeing. However, we do not have access to complete
+information making this is a limitation that renders that hedonism
+approach ineffective. A final objection to the hedonism approach is that
+the definitions of happiness are ambiguous and vary across literature.
+With happiness being too complicated of a measure, the capabilities of
+the hedonism approach are put into question further bolstering the
+preference selection approach.
+
+Advocating for GDP
+------------------
+
+While GDP may not be an accurate measure by which to evaluate a policy,
+there is still some merit to its usefulness. GDP is not a measure of
+human welfare but an indicator of human welfare. GDP is shown to be
+negatively correlated with infant mortality and inequality and positive
+correlated with life expectancy.3 Parents usually tend to feel upset
+when their children die, thus a decrease in infant mortality may be
+associated with an increase in happiness. A common sentiment with GDP as
+a measure is that most people don’t benefit from GDP growth and an
+increase in GDP contributes to greater income inequality. Data has
+revealed otherwise, with average household incomes raising in the U.S.
+as GDP has grown.3 While this analysis only provides a limited argument
+in favor of GDP as a method of evaluation, the overall case for GDP is
+weak and must be reconsidered.
+
+Conclusion
+----------
+
+In conclusion, policymakers should attempt to evaluate policies using
+wellbeing as a criterion and the preference selection method as the
+primary approach. Wellbeing is defined as a state of being comfortable,
+healthy, or happy. Wellbeing can be examined using many different
+approaches, including the object list and hedonism methods. As a measure
+of wellbeing, preference selection takes into account efficiency as well
+as personal choice. These two factors are key in establishing the
+strength of this approach as the most economic method takes into account
+these parameters. The GDP method might be a standardized and
+quantifiable approach to determining the overall effect of a policy,
+however there are many flaws in using change in GDP as an indicator for
+evaluation. Thus, wellbeing should be expanded on and used as baseline
+measure for the efficacy of a policy.
+
+Works Cited
+-----------
+
+Hausman, Daniel. 2010. “Hedonism and Welfare Economics.” In Economics
+and Philosophy, 26, pp. 321-344. Oulton, Nicholas. 2012. “Hooray for
+GDP! GDP as a measure of wellbeing.” In VoxEu.org. Rodriguez, Francisco.
+2009. “What Does the Human Development Index Really Measure?” In The New
+York Times.
