@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Declare input argument as a variable
-$DOCUMENT=$1
+DOCUMENT=$1
 # Convert markdown to HTML
 pandoc -o conversion-doc.html $DOCUMENT
 echo "The markdown document is being converted to HTML format."
@@ -23,4 +23,4 @@ pandoc -o conversion-doc.txt $DOCUMENT
 echo "The markdown document is being converted to a TXT file."
 echo ""
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
-echo "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF, TXT"
+echo "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF, and TXT"
